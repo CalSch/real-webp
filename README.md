@@ -9,3 +9,6 @@ red orange yellow green
 cyan blue magenta red
 white grey dimgrey black
 ```
+And the converted PNG:
+![demo](https://github.com/user-attachments/assets/074d85dc-32e4-4e3c-bed0-49c67c5651b9)
+(It's small)
